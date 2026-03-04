@@ -53,9 +53,9 @@ npm install
 The `.env` file is included in the repository with the following variables:
 
 ```env
-MONGODB_URI=mongodb+srv://pj772723_db_user:vAroHdCpq7YqqqvR@cluster0.reoajne.mongodb.net/?appName=Cluster0
-JWT_SECRET=AeonX
-JWT_EXPIRES_IN=10h
+MONGODB_URI=MOONGODB_URL
+JWT_SECRET=AddSecretKey
+JWT_EXPIRES_IN=AddExpiryTime
 REDIS_URL=redis://localhost:6379
 ```
 
